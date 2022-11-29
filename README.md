@@ -1,4 +1,4 @@
-## Oiii eu sou Lucas Luna, programador
+## Bem vindo, eu sou Lucas Luna, programador
 <div align="center">
   <div align="center">
   <a href="https://github.com/RLluna12">
