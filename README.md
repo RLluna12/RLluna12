@@ -6,12 +6,12 @@
 
 ## 👋 About Me
 
-I'm **Lucas Luna**, a developer passionate about technology and graduated in **Systems Analysis and Development**.  
-I work with **Front-end and Back-end development**, focusing on clean code, usability, and scalable solutions.
+I’m Lucas Luna, a Full Stack Developer with a degree in Systems Analysis and Development.
+I specialize in building modern, scalable, and user-focused applications using the best of Front-end and Back-end technologies.
 
-💡 I enjoy turning ideas into real products using modern technologies.  
-🚀 Always learning and looking for new challenges in the tech world.
+🚀 Founder of Dev Luna (dev-luna.com) and freelance developer, helping businesses transform ideas into high-quality digital products — from websites to complete systems.
 
+💡 Passionate about technology, clean code, and continuous learning
 ---
 
 ## 🛠️ Skills & Technologies
